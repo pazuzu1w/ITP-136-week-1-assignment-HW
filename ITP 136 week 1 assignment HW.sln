@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITP 136 week 1 assignment HW", "ITP 136 week 1 assignment HW\ITP 136 week 1 assignment HW.csproj", "{A1FA24F0-5F55-4BCE-A4FB-5B52246D41B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1FA24F0-5F55-4BCE-A4FB-5B52246D41B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1FA24F0-5F55-4BCE-A4FB-5B52246D41B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1FA24F0-5F55-4BCE-A4FB-5B52246D41B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1FA24F0-5F55-4BCE-A4FB-5B52246D41B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24E9215F-99B2-4BFA-942B-C49A53230F1A}
+	EndGlobalSection
+EndGlobal
